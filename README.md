@@ -2,11 +2,11 @@
 # SmartAirBox Lite EN - Arduino-Based Intelligent Air Purification and Monitoring System
 
 ## Project Introduction
-This project is an Arduino-based environmental monitoring system capable of real-time detection of PM2.5, carbon monoxide (CO), and carbon dioxide (CO2) concentrations. It displays air quality status and triggers alarms when necessary. The goal is to protect people from air pollution hazards by controlling sensor-driven hardware devices.
+This project is an Arduino-based environmental monitoring system capable of real-time detection of PM2.5, carbon monoxide (CO), methane (CH4), and carbon dioxide (CO2) concentrations. It displays air quality status and triggers alarms when necessary. The goal is to protect people from air pollution hazards by controlling sensor-driven hardware devices.
 
 ## Features
 
-- **Air Quality Monitoring**: Real-time monitoring of PM2.5, CO, and CO2 concentrations.
+- **Air Quality Monitoring**: Real-time monitoring of PM2.5, CO, CH4,and CO2 concentrations.
 - **Alarm Functionality**: Provides warnings and extended alarms when pollutant concentrations exceed safe thresholds.
 - **Ventilation Control**: Automatically activates ventilation devices to improve air quality.
 - **LCD Display**: Real-time display of sensor readings with air quality indications.
